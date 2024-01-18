@@ -1,0 +1,7 @@
+new entry "KHB_OBJ_Jar_O_Tentacles"
+type "Object"
+using "OBJ_Jar"
+data "RootTemplate" "4202b26b-6d53-4990-a0dc-c752b4abf4e8"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Legendary"

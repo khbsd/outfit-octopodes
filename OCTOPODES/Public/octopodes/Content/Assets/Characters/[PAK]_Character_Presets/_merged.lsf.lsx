@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="7" build="2" lslib_meta="v1,bswap_guids" />
+	<region id="ColorPresetBank">
+		<node id="ColorPresetBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="e305bc63-cd22-4090-8b26-3aa0562aa041" />
+					<attribute id="Name" type="LSString" value="S3M_Colors_S3M_Armor_StuddedLeather_1A" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725663" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,2 @@
+add files for meshes/materials (copy-paste and copy-replace from bloodvine)
+get roottemplate set up with basic mesh for testing
