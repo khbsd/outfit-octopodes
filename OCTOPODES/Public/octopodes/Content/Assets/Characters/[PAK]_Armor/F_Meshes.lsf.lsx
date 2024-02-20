@@ -23,9 +23,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/octopodes/Assets/Meshes/F/HUM_F_Octopodes.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/octopodes/Assets/Meshes/F/HUM_F_Octopodes_4.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/octopodes/Assets/Meshes/F/HUM_F_Octopodes.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/octopodes/Assets/Meshes/F/HUM_F_Octopodes_4.Dummy_Root.0" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
@@ -34,35 +34,35 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="fa2dd1cd-6302-4958-9a0e-5683c264a926" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes.Orin_Body.1" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes_4.Orin_Body.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="952b26a9-44f1-4b95-bd97-cd6ff86a897c" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes.Orin_Pants.2" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes_4.Orin_Pants.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="3d99cd2b-06e8-405e-ae27-6fc14b62ad28" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes.THRALL_HUM_Boots.3" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes_4.THRALL_HUM_Boots.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="58f11017-9fc6-4757-946d-b5370ef944ae" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes.THRALL_HUM_LowerArmor_Chestacle.4" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes_4.THRALL_HUM_LowerArmor_Chestacle.4" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="58f11017-9fc6-4757-946d-b5370ef944ae" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes.THRALL_HUM_LowerArmor_Legtacle.5" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_Octopodes_4.THRALL_HUM_LowerArmor_Legtacle.5" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
