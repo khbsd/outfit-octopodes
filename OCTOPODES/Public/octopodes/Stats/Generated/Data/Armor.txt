@@ -8,3 +8,54 @@ data "Weight" "0.1"
 data "ValueOverride" "0"
 data "Rarity" "Legendary"
 data "ArmorType" "Cloth"
+
+new entry "KHB_Armor_Octopodes_1"
+type "Armor"
+using "ARM_Camp_Body"
+data "Icon" "Octopodes_Icon"
+data "RootTemplate" "81dcc5e6-9140-48b0-816b-31d406c36017"
+data "Proficiency Group" ""
+data "Weight" "0.1"
+data "ValueOverride" "0"
+data "Rarity" "Legendary"
+data "ArmorType" "Cloth"
+
+new entry "KHB_Armor_Octopodes_2"
+type "Armor"
+using "ARM_Camp_Body"
+data "Icon" "Octopodes_Icon"
+data "RootTemplate" "a1ba0a82-8314-4bd7-ad5b-f84c26a2d623"
+data "Proficiency Group" ""
+data "Weight" "0.1"
+data "ValueOverride" "0"
+data "Rarity" "Legendary"
+data "ArmorType" "Cloth"
+
+new entry "KHB_Armor_Octopodes_3"
+type "Armor"
+using "ARM_Camp_Body"
+data "Icon" "Octopodes_Icon"
+data "RootTemplate" "a32bb9a7-0db8-4b8e-9365-b96284d7c717"
+data "Proficiency Group" ""
+data "Weight" "0.1"
+data "ValueOverride" "0"
+data "Rarity" "Legendary"
+data "ArmorType" "Cloth"
+
+new entry "KHB_Armor_Octopodes_4"
+type "Armor"
+using "ARM_Camp_Body"
+data "Icon" "Octopodes_Icon"
+data "RootTemplate" "145f3b9d-2d18-41cb-924a-bf6b9f8df3bd"
+data "Proficiency Group" ""
+data "Weight" "0.1"
+data "ValueOverride" "0"
+data "Rarity" "Legendary"
+data "ArmorType" "Cloth"
+
+
+
+
+
+
+

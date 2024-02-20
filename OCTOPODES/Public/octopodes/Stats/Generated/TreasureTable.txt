@@ -2,6 +2,14 @@ new treasuretable "KHB_TT_Jar_O_Tentacles"
 CanMerge 1
 new subtable "1,1"
 object category "I_KHB_Armor_Octopodes_Base",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KHB_Armor_Octopodes_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KHB_Armor_Octopodes_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KHB_Armor_Octopodes_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KHB_Armor_Octopodes_4",1,0,0,0,0,0,0,0
 
 
 new treasuretable "DEN_Entrance_Trade"

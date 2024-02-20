@@ -101,7 +101,7 @@
 											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> HUM_FS
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="3a25775a-3c2a-406b-abf9-0464ec89c1c1" /> 
+													<attribute id="Object" type="FixedString" value="437be2bf-beff-4317-b5a9-a4b30ee324c2" /> 
 												</node>
 																								
 											</children>
@@ -110,7 +110,74 @@
 											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" /> TIEF_FS
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="3a25775a-3c2a-406b-abf9-0464ec89c1c1" /> 
+													<attribute id="Object" type="FixedString" value="437be2bf-beff-4317-b5a9-a4b30ee324c2" /> 
+												</node>
+																								
+											</children>
+										</node>													
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> HUM_F_ARM_Octopodes_Top
+					<attribute id="Description" type="TranslatedString" handle="KHB_Octopodes1_Description" version="1" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="KHB_Octopodes1_DisplayName" version="2" /> 
+					<attribute id="Icon" type="FixedString" value="Octopodes_Icon" /> 
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="81dcc5e6-9140-48b0-816b-31d406c36017" /> 
+					<attribute id="Name" type="LSString" value="KHB_Armor_Octopodes_1" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="e32488ea-f93d-4318-abe2-69070dc5e026" />	
+					<attribute id="ReadinessFlags" type="uint32" value="128" />					
+					<attribute id="Stats" type="FixedString" value="KHB_Armor_Octopodes_Top" /> 					
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d5522450-68f2-ce13-3118-99b27321cba8" /> 
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>							
+								<node id="ParentRace" />				
+								<node id="Visuals">
+									<children>									
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" /> HUM_F
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="adb1bde9-aa22-4f4d-a006-9c84e6b0052a" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" /> TIEF_F
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="adb1bde9-aa22-4f4d-a006-9c84e6b0052a" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> HUM_FS
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a9d8bd79-3a13-4e67-84be-a0ab8f1b73ab" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" /> TIEF_FS
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a9d8bd79-3a13-4e67-84be-a0ab8f1b73ab" /> 
 												</node>
 																								
 											</children>
@@ -121,6 +188,207 @@
 						</node>
 					</children>
 				</node>		        
+				<node id="GameObjects"> HUM_F_ARM_Octopodes_Top
+					<attribute id="Description" type="TranslatedString" handle="KHB_Octopodes2_Description" version="1" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="KHB_Octopodes2_DisplayName" version="2" /> 
+					<attribute id="Icon" type="FixedString" value="Octopodes_Icon" /> 
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a1ba0a82-8314-4bd7-ad5b-f84c26a2d623" /> 
+					<attribute id="Name" type="LSString" value="KHB_Armor_Octopodes_2" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="e32488ea-f93d-4318-abe2-69070dc5e026" />	
+					<attribute id="ReadinessFlags" type="uint32" value="128" />					
+					<attribute id="Stats" type="FixedString" value="KHB_Armor_Octopodes_Top" /> 					
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d5522450-68f2-ce13-3118-99b27321cba8" /> 
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>							
+								<node id="ParentRace" />				
+								<node id="Visuals">
+									<children>									
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" /> HUM_F
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="e6f848fc-9eb0-42c2-8cf1-b55ac69731f3" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" /> TIEF_F
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="e6f848fc-9eb0-42c2-8cf1-b55ac69731f3" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> HUM_FS
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a55925fd-1f62-4993-9056-675759ea25d0" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" /> TIEF_FS
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a55925fd-1f62-4993-9056-675759ea25d0" /> 
+												</node>
+																								
+											</children>
+										</node>													
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>		        
+				<node id="GameObjects"> HUM_F_ARM_Octopodes_Top
+					<attribute id="Description" type="TranslatedString" handle="KHB_Octopodes3_Description" version="1" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="KHB_Octopodes3_DisplayName" version="2" /> 
+					<attribute id="Icon" type="FixedString" value="Octopodes_Icon" /> 
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a32bb9a7-0db8-4b8e-9365-b96284d7c717" /> 
+					<attribute id="Name" type="LSString" value="KHB_Armor_Octopodes_3" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="e32488ea-f93d-4318-abe2-69070dc5e026" />	
+					<attribute id="ReadinessFlags" type="uint32" value="128" />					
+					<attribute id="Stats" type="FixedString" value="KHB_Armor_Octopodes_Top" /> 					
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d5522450-68f2-ce13-3118-99b27321cba8" /> 
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>							
+								<node id="ParentRace" />				
+								<node id="Visuals">
+									<children>									
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" /> HUM_F
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="5e008142-a750-4852-aa79-3bf983f7349f" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" /> TIEF_F
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="5e008142-a750-4852-aa79-3bf983f7349f" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> HUM_FS
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="8246736c-257f-4cde-86aa-7d8f0a052e07" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" /> TIEF_FS
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="8246736c-257f-4cde-86aa-7d8f0a052e07" /> 
+												</node>
+																								
+											</children>
+										</node>													
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>		        
+				<node id="GameObjects"> HUM_F_ARM_Octopodes_Top
+					<attribute id="Description" type="TranslatedString" handle="KHB_Octopodes4_Description" version="1" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="KHB_Octopodes4_DisplayName" version="2" /> 
+					<attribute id="Icon" type="FixedString" value="Octopodes_Icon" /> 
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="145f3b9d-2d18-41cb-924a-bf6b9f8df3bd" /> 
+					<attribute id="Name" type="LSString" value="KHB_Armor_Octopodes_4" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="e32488ea-f93d-4318-abe2-69070dc5e026" />	
+					<attribute id="ReadinessFlags" type="uint32" value="128" />					
+					<attribute id="Stats" type="FixedString" value="KHB_Armor_Octopodes_Top" /> 					
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d5522450-68f2-ce13-3118-99b27321cba8" /> 
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>							
+								<node id="ParentRace" />				
+								<node id="Visuals">
+									<children>									
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" /> HUM_F
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="30abfc2e-55d4-47fe-804e-45b45b629199" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" /> TIEF_F
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="30abfc2e-55d4-47fe-804e-45b45b629199" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> HUM_FS
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="021734dc-22b0-4cae-a220-9f99e8e6da4d" /> 
+												</node>
+																								
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" /> TIEF_FS
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="021734dc-22b0-4cae-a220-9f99e8e6da4d" /> 
+												</node>
+																								
+											</children>
+										</node>													
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>		        		        
             </children>
         </node>
     </region>
