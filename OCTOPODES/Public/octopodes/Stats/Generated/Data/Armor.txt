@@ -8,6 +8,9 @@ data "Weight" "0.1"
 data "ValueOverride" "0"
 data "Rarity" "Legendary"
 data "ArmorType" "Cloth"
+data "BoostContext" "OnEquip, OnCreate"
+data "BoostConditions" "HasPassive('KHB_Undertow_Passive', context.Source)"
+data "Boosts" "UnlockSpell(KHB_Target_CreateWaterCantrip);AC(ProficiencyBonus)"
 
 new entry "KHB_Armor_Octopodes_1"
 type "Armor"
@@ -52,6 +55,7 @@ data "Weight" "0.1"
 data "ValueOverride" "0"
 data "Rarity" "Legendary"
 data "ArmorType" "Cloth"
+data "Boosts" ""
 
 
 
