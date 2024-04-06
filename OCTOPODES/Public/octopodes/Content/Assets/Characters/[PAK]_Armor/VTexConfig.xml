@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TileSet Version="2" Name="KHB_OCTOPODES_TEXTURESET">
 	<Paths>
-		<SourceTextures>Generated\Public\octopodes\Assets\Textures\</SourceTextures>
+		<SourceTextures>Generated\Public\octopodes\Assets\Textures</SourceTextures>
 		<VirtualTextures>Generated\Public\octopodes\Assets\VirtualTextures</VirtualTextures>
 	</Paths>
 	

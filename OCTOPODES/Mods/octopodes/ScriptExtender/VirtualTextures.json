@@ -2,27 +2,27 @@
     "Mappings": [
         {
             "GTexName": "HUM_F_ARM_Octopodes_Top_Orin",
-            "GTS": "Public/YOUR_MOD_NAME/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
+            "GTS": "Public/octopodes/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
         },
         {
             "GTexName": "HUM_F_ARM_Octopodes_Bottom_Orin",
-            "GTS": "Public/YOUR_MOD_NAME/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
+            "GTS": "Public/octopodes/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
         },
         {
             "GTexName": "THRALL_HUM_UpperArmor",
-            "GTS": "Public/YOUR_MOD_NAME/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
+            "GTS": "Public/octopodes/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
         },
         {
             "GTexName": "THRALL_HUM_ShoulderPads",
-            "GTS": "Public/YOUR_MOD_NAME/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
+            "GTS": "Public/octopodes/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
         },
         {
             "GTexName": "THRALL_HUM_LowerArmor",
-            "GTS": "Public/YOUR_MOD_NAME/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
+            "GTS": "Public/octopodes/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
         },
         {
             "GTexName": "THRALL_HUM_Boots",
-            "GTS": "Public/YOUR_MOD_NAME/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
+            "GTS": "Public/octopodes/Assets/VirtualTextures/KHB_OCTOPODES_TEXTURESET.gts"
         }
     ]
 }
