@@ -1,0 +1,96 @@
+<region id="TextureBank">
+    <node id="TextureBank">
+        <children>
+            <node id="Resource"> HUM_F_ARM_Octopodes_Top_Orin
+                <attribute id="GTexFileName" type="FixedString" value="KHB_OCTOPODES_TEXTURESET" />
+                <attribute id="ID" type="FixedString" value="HUM_F_ARM_Octopodes_Top_Orin" />
+                <attribute id="Name" type="LSString" value="HUM_F_ARM_Octopodes_Top_Orin" />
+                <attribute id="Prefetch" type="bool" value="False" />
+                <attribute id="PrefetchMipLevel" type="int8" value="-1" />
+                <attribute id="ReferencedColorSpaces" type="uint32" value="6" />
+                <attribute id="SourceFile" type="LSString" value="Generated\Public\octopodes\Assets\VirtualTextures\KHB_OCTOPODES_TEXTURESET.gts" />
+                <attribute id="VirtualTextureLayerConfig" type="uint32" value="3" />
+                <attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+            </node>
+            <node id="Resource"> HUM_F_ARM_Octopodes_Bottom_Orin
+                <attribute id="GTexFileName" type="FixedString" value="KHB_OCTOPODES_TEXTURESET" />
+                <attribute id="ID" type="FixedString" value="HUM_F_ARM_Octopodes_Bottom_Orin" />
+                <attribute id="Name" type="LSString" value="HUM_F_ARM_Octopodes_Bottom_Orin" />
+                <attribute id="Prefetch" type="bool" value="False" />
+                <attribute id="PrefetchMipLevel" type="int8" value="-1" />
+                <attribute id="ReferencedColorSpaces" type="uint32" value="6" />
+                <attribute id="SourceFile" type="LSString" value="Generated\Public\octopodes\Assets\VirtualTextures\KHB_OCTOPODES_TEXTURESET.gts" />
+                <attribute id="VirtualTextureLayerConfig" type="uint32" value="3" />
+                <attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+            </node>
+            <node id="Resource"> THRALL_HUM_UpperArmor
+                <attribute id="GTexFileName" type="FixedString" value="KHB_OCTOPODES_TEXTURESET" />
+                <attribute id="ID" type="FixedString" value="THRALL_HUM_UpperArmor" />
+                <attribute id="Name" type="LSString" value="THRALL_HUM_UpperArmor" />
+                <attribute id="Prefetch" type="bool" value="False" />
+                <attribute id="PrefetchMipLevel" type="int8" value="-1" />
+                <attribute id="ReferencedColorSpaces" type="uint32" value="6" />
+                <attribute id="SourceFile" type="LSString" value="Generated\Public\octopodes\Assets\VirtualTextures\KHB_OCTOPODES_TEXTURESET.gts" />
+                <attribute id="VirtualTextureLayerConfig" type="uint32" value="3" />
+                <attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+            </node>
+            <node id="Resource"> THRALL_HUM_ShoulderPads
+                <attribute id="GTexFileName" type="FixedString" value="KHB_OCTOPODES_TEXTURESET" />
+                <attribute id="ID" type="FixedString" value="THRALL_HUM_ShoulderPads" />
+                <attribute id="Name" type="LSString" value="THRALL_HUM_ShoulderPads" />
+                <attribute id="Prefetch" type="bool" value="False" />
+                <attribute id="PrefetchMipLevel" type="int8" value="-1" />
+                <attribute id="ReferencedColorSpaces" type="uint32" value="6" />
+                <attribute id="SourceFile" type="LSString" value="Generated\Public\octopodes\Assets\VirtualTextures\KHB_OCTOPODES_TEXTURESET.gts" />
+                <attribute id="VirtualTextureLayerConfig" type="uint32" value="3" />
+                <attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+            </node>
+            <node id="Resource"> THRALL_HUM_LowerArmor
+                <attribute id="GTexFileName" type="FixedString" value="KHB_OCTOPODES_TEXTURESET" />
+                <attribute id="ID" type="FixedString" value="THRALL_HUM_LowerArmor" />
+                <attribute id="Name" type="LSString" value="THRALL_HUM_LowerArmor" />
+                <attribute id="Prefetch" type="bool" value="False" />
+                <attribute id="PrefetchMipLevel" type="int8" value="-1" />
+                <attribute id="ReferencedColorSpaces" type="uint32" value="6" />
+                <attribute id="SourceFile" type="LSString" value="Generated\Public\octopodes\Assets\VirtualTextures\KHB_OCTOPODES_TEXTURESET.gts" />
+                <attribute id="VirtualTextureLayerConfig" type="uint32" value="3" />
+                <attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+            </node>
+            <node id="Resource"> THRALL_HUM_Boots
+                <attribute id="GTexFileName" type="FixedString" value="KHB_OCTOPODES_TEXTURESET" />
+                <attribute id="ID" type="FixedString" value="THRALL_HUM_Boots" />
+                <attribute id="Name" type="LSString" value="THRALL_HUM_Boots" />
+                <attribute id="Prefetch" type="bool" value="False" />
+                <attribute id="PrefetchMipLevel" type="int8" value="-1" />
+                <attribute id="ReferencedColorSpaces" type="uint32" value="6" />
+                <attribute id="SourceFile" type="LSString" value="Generated\Public\octopodes\Assets\VirtualTextures\KHB_OCTOPODES_TEXTURESET.gts" />
+                <attribute id="VirtualTextureLayerConfig" type="uint32" value="3" />
+                <attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+            </node>
+            <node id="Resource"> HUM_F_ARM_Octopodes_Top_Orin
+                <attribute id="Name" type="LSString" value="HUM_F_ARM_Octopodes_Top_Orin_MSKCloth" />
+                <attribute id="ID" type="FixedString" value="a123b609-f5f7-454d-868b-3cbc20bd6bc8" />
+                <attribute id="SourceFile" type="LSString" value="Generated\Public\octopodes\Assets\Textures\orin\HUM_F_ARM_Octopodes_Top_Orin_MSKCloth.DDS" />
+                <attribute id="Width" type="int32" value="2048" />
+                <attribute id="Height" type="int32" value="2048" />
+                <attribute id="Depth" type="int32" value="1" />
+                <attribute id="SRGB" type="bool" value="False" />
+                <attribute id="Streaming" type="bool" value="True" />
+                <attribute id="Template" type="FixedString" value="" />
+                <attribute id="Type" type="int32" value="1" />
+            </node>
+            <node id="Resource">Orin_Bottom
+                <attribute id="Name" type="LSString" value="HUM_F_ARM_Octopodes_Bottom_Orin_MSKCloth" />
+                <attribute id="ID" type="FixedString" value="8cf86afd-f6ff-4639-8d29-d45cf128072d" />
+                <attribute id="SourceFile" type="LSString" value="Generated\Public\octopodes\Assets\Textures\orin\HUM_F_ARM_Octopodes_Bottom_Orin_MSKCloth.DDS" />
+                <attribute id="Width" type="int32" value="2048" />
+                <attribute id="Height" type="int32" value="2048" />
+                <attribute id="Depth" type="int32" value="1" />
+                <attribute id="SRGB" type="bool" value="False" />
+                <attribute id="Streaming" type="bool" value="True" />
+                <attribute id="Template" type="FixedString" value="" />
+                <attribute id="Type" type="int32" value="1" />
+            </node>
+        </children>
+    </node>
+</region>
